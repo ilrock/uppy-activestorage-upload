@@ -4,6 +4,9 @@
 
 The ActiveStorage Upload plugin handles Ruby on Rails ActiveStorage direct uploads with Uppy.
 
+### 🚨 WARNING
+The only code change in this fork is a change from exporting as a CommonJS Module to an ES Module. [See this issue](https://github.com/excid3/uppy-activestorage-upload/issues/11) for more information. This is a temporary workaround and I do not recommend using this repository directly. Thanks! 
+
 ## Example
 
 Add this line to your HEAD tag.
