@@ -40,7 +40,7 @@
     "@excid3:registry": "https://npm.pkg.github.com/"
   },
   "dependencies": {
-    "@paralleldrive/cuid2": "^2.0.1",
-    "np": "^7.6.3"
+    "np": "^7.6.3",
+    "uuid": "^9.0.1"
   }
 }
